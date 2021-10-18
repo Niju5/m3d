@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-46122624-m3
+  labels:
+    app: pod-46122624-m3
+spec:
+  containers:
+    - name: 46122624-m3
+      image: niju5/m3d:latest
